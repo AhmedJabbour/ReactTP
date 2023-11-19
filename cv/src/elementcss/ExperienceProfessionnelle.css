@@ -1,0 +1,25 @@
+.experience-professionnelle {
+    margin-top: 20px;
+  }
+  
+  h3 {
+    color: #333;
+  }
+  
+  .experience-item {
+    margin-bottom: 20px;
+  }
+  
+  strong {
+    color: #333;
+  }
+  
+  ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  li {
+    color: #666;
+    margin-bottom: 5px;
+  }

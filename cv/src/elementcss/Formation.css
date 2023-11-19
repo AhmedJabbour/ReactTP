@@ -1,0 +1,23 @@
+.formation {
+    margin-top: 20px;
+  }
+  
+  h3 {
+    color: #c42424;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    color: #a81111;
+    margin-bottom: 10px;
+  }
+  
+  li strong {
+    color: #c52222;
+  }
+
+  
