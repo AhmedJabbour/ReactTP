@@ -5,8 +5,9 @@ const Langues = () => {
   return (
     <div>
       <h3 className="section-title">Langues</h3>
-      <p>Français (langue maternelle)</p>
+      <p>Arabe (langue maternelle)</p>
       <p>Anglais (courant)</p>
+      <p>Français</p>
     </div>
   );
 };
