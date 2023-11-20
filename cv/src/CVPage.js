@@ -10,10 +10,14 @@ import ExperienceProfessionnelle from './elements/ExperienceProfessionnelle';
 import Formation from './elements/Formation';
 import Projets from './elements/Projets';
 import './elementcss/CVPage.css';
+//import LanguageSwitcher from './elements/LanguageSwitcher';
+
 
 const CVPage = () => {
     return (
+      
       <div className="cv-container">
+       
         <div className="left-column">
           <PhotoNomPrenom />
           <Coordonnees />

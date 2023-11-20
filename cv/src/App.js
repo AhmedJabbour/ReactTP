@@ -1,12 +1,19 @@
-// App.js
-import React from 'react';
+import React, { useState } from 'react';
 import CVPage from './CVPage';
+import CvPageEn from './CvPageEn';
 import './App.css';
 
 const App = () => {
+  const [isEnglish, setIsEnglish] = useState(false);
+
+  const toggleLanguage = () => {
+    setIsEnglish((prev) => !prev);
+  };
+
   return (
     <div className="app">
-      <CVPage />
+      {isEnglish ? <CvPageEn /> : <CVPage />}
+      <button onClick={toggleLanguage}> Switch Language</button>
     </div>
   );
 };

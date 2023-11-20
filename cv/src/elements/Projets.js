@@ -1,4 +1,4 @@
-// Projets.js
+
 import React from 'react';
 import '../elementcss/Projets.css';
 import '../elementcss/CVPage.css';

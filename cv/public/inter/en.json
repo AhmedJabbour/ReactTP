@@ -1,0 +1,82 @@
+{
+    "cvPage": {
+      
+  
+"centresInteret": {
+    "title": "Interests",
+    "content": "Sports, Reading, Travel"
+  },
+
+  "certifications": {
+    "title": "Certifications",
+    "certification1": "JavaScript Advanced Certification",
+    "certification2": "NDG Linux Essentials",
+    "certification3": "CCNAv7: Enterprise Networking, Security, and Automation"
+  },
+
+  "competences": {
+    "title": "Skills",
+    "programmingLanguages": "Programming Languages",
+    "databases": "Databases",
+    "designModeling": "Design and Modeling",
+    "javaEE": "Java EE Technology",
+    "webDevelopment": "Web Development",
+    "dataScience": "Data Science",
+    "economicsManagement": "Economics and Management",
+    "mathStatistics": "Mathematics and Statistics",
+    "mobileDevelopment": "Mobile Development"
+  },
+  "experienceProfessionnelle": {
+    "title": "Professional Experience",
+    "jobTitle": "Job Title",
+    "company": "Company",
+    "location": "Location",
+    "startDate": "Start Date",
+    "endDate": "End Date",
+    "responsibilities": "Responsibilities",
+    "stageTitle": "Internship (Full stack engineer)",
+    "companyName": "Screenday",
+    "dateLocation": "July 2022 – September 2022, Fes, Morocco",
+    "mission": "Mission",
+    "missionDetails": [
+      "In-depth understanding of user needs.",
+      "Design and development of a dental practice management application.",
+      "Integration of Power BI Embedded dashboards into the application.",
+      "Display of key performance indicators.",
+      "Implementation of an interactive and informative interface for users."
+    ],
+    "technologiesUsed": "Technologies Used",
+    "technologiesDetails": "PHP, HTML, CSS, Bootstrap, MySQL, Microsoft Excel, Power BI Embedded."
+  },
+  "formation": {
+    "title": "Education",
+    "degree1": "Master 2 MIASHS (Applied Mathematics and Computer Science in Social Sciences)",
+    "specialization1": "Web Analyst Track",
+    "university1": "University of Lille, Lille, France",
+    "date1": "2023-2024",
+    "degree2": "Master 1 in Information Systems Engineering",
+    "university2": "Higher School of Engineering in Applied Sciences, Fes, Morocco",
+    "date2": "2022 – 2023",
+    "degree3": "Bachelor's Degree in Software Engineering (With Honors)",
+    "university3": "Higher School of Engineering in Applied Sciences, Fes, Morocco",
+    "date3": "2019 – 2022"
+  },
+  "langues": {
+    "title": "Languages",
+    "nativeLanguage": "Arabic (Native)",
+    "fluentLanguage": "English (Fluent)",
+    "french": "French"
+  },
+  "projets": {
+    "title": "Projects",
+    "project1": "Python Project: Analysis of the evolution of the Covid-19 pandemic.",
+    "project2": "Development of a desktop application ROTG: for Operations Research and Graph Theory. (Python, R)",
+    "project3": "Creation of a web video conferencing application: (Angular, TypeScript, Spring Boot, Express.js).",
+    "project4": "Implementation of a project on road safety in France: (Language R) {Data [cleansing-Analysing-Processing]}",
+    "project5": "Development of a Video Game 'Chess': (Language C++ / Framework QT)",
+    "project6": "Development of a desktop application for School Management: (ASP.NET)",
+    "project7": "Development of a multi-platform e-commerce mobile application: with Flutter and Firebase.",
+    "project8": "Research Project on Vulnerabilities and Exploitation: Detect, Exploit, and Protect (Metasploit)."
+  },
+}
+}
